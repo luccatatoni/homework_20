@@ -18,5 +18,4 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 
 * `TieredProfitSplitter.sol` -- Level 2 code.
 
-* `DeferredEquityPlan.sol`] -- Level 3 code.
-
+* `DeferredEquityPlan.sol` -- Level 3 code.
